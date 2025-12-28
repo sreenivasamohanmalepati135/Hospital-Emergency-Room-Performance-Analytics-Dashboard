@@ -4,7 +4,7 @@ An interactive Power BI dashboard designed to analyze and monitor emergency room
 
 
 
-#📊 PROJECT OVERVIEW
+📊 PROJECT OVERVIEW
 
 
 Emergency rooms handle high patient volumes daily, making it critical to monitor operational efficiency and patient experience.
@@ -12,7 +12,7 @@ This project provides a visual analytics solution that helps hospitals identify 
 
 
 
-#🎯 Objectives
+🎯 Objectives
 
 
 Analyze emergency room patient flow and admission trends
@@ -21,7 +21,7 @@ Track patient satisfaction metrics
 Understand patient demographics and referral patterns
 
 
-#📈 Key Insights
+📈 Key Insights
 
 
 Analyzed 464+ patient records for monthly ER performance
@@ -32,7 +32,7 @@ Highest patient volume observed in 30–44 and 45–59 age groups
 General Practice and Orthopedics identified as top referral departments
 
 
-#🛠️ Tools & Technologies
+🛠️ Tools & Technologies
 
 Power BI – Dashboard development & visualization
 DAX – KPI calculations and measures
